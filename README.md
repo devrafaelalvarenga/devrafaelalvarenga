@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rafael Alvarenga  👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelalvarenga1/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](devrafaelalvarenga@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](https://mail.google.com/mail/u/1/#inbox)
 
 ![Rafael Alvarenga GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafaelalvarenga&show_icons=true&theme=dark)
 
