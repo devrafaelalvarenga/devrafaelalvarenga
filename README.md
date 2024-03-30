@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Eu sou o Rafael Alvarenga  👋
 Sou um profissional focado no desenvolvimento e manipulação das camadas de dados. 
-Estou me preparando e meu objetivo é tornar-me referência em engenharia de dados atuando sobre plataformas e tecnologias de nuvem.
+Meu objetivo é tornar-me referência em engenharia de dados atuando sobre plataformas e tecnologias de nuvem.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelalvarenga1/)
 
